@@ -1,0 +1,4 @@
+Line 3: MaryB Mary Coe 200
+	Error: Account already exists.
+Line 4: JohnD MaryB 1100
+	Error: Insufficient funds.
